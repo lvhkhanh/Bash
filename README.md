@@ -23,3 +23,7 @@ do
   echo $i
 done < <($arr)
 ```
+## Refs
+```
+unzip -d <dest_folder> <zip_path>
+```
